@@ -12,3 +12,7 @@ Author: Syed Umar S
 4. Attachments
  
 5. Hiding the last seen
+
+6. audio feature
+
+7. video feature
