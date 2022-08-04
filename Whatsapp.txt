@@ -16,3 +16,5 @@ Author: Syed Umar S
 6. audio feature
 
 7. video feature
+
+8. Enhanced Attachment as requested by end user in issues
